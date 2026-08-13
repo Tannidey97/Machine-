@@ -1,9 +1,12 @@
 # Basic Flowchart of a DC Generator :  
 
-START
-  │
-  ▼
-Atoms contain electrons
+START  
+
+  │  
+  
+  ▼  
+  
+Atoms contain electrons  
   │
   ▼
 Electrons have charge and spin
