@@ -26,6 +26,8 @@ It consists of:
 
 **It is a cylindrical laminated iron core mounted on the rotating shaft. It consists of many slotted soft-iron(a slice of slotted laminated iron) laminations. The slots to hold armature conductors(the copper wires). It rotates inside the magnetic field.**  
 
+***As the armature core laminations are insulated from each other, useful current does not flow through the core. The current flows through the armature conductors placed in its slots. The armature core provides a path for magnetic flux and supports the conductor***  
+
 ### Armature Windings 
 
 **When conductors(copper wires) are placed between the slot of the armature core, it is called armature Windings. The armature Windings or bunch of copper wires can be inter-connected in series or parallel based on increasing current or voltage. To increase the voltage conductors are connected in series and to increase current conductors are connected in parallel.**  
@@ -57,10 +59,32 @@ Commutator Action
        ↓  
 Brushes Collect Current  
        ↓  
-DC Output
-       ↓  
-     Load  
+  DC output  
+       ↓   
+      Load  
 
 
 ***DC motor works in a same way as the DC generator but in reverse. DC motors convert electrical energy into mechanical energy. In this case, carbon brushes feed supply current to the commutator. After the brushes feed current to the commutator, the current flows through the armature winding. The current-carrying armature conductors interact with the magnetic field and experience a force. This force produces torque, causing the armature and shaft to rotate. Thus, the DC motor converts electrical energy into mechanical energy.*** 
 
+# Basic Flowchart of DC motors 
+
+DC OutputDC Supply  
+      ↓  
+Current enters through Brushes  
+      ↓  
+Commutator supplies current to Armature Conductors  
+      ↓  
+Current-carrying conductors are placed in Magnetic Field  
+      ↓  
+Magnetic field + Current interact  
+      ↓  
+Force is produced on the conductors  
+      ↓  
+Torque is produced  
+      ↓  
+🔄 Armature rotates  
+      ↓  
+Mechanical output is obtained  
+
+
+ 
